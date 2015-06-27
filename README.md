@@ -8,8 +8,6 @@ REQUIREMENTS
 ------------
 It requires the following modules:
 
- * python 2.7 or higher
- * python easy-install module requests
  * g++
  * mpich2 (mpic++ and mpirun), 
 	+ can be installed on ubuntu using : sudo apt-get install libcr-dev mpich2 mpich2-doc
